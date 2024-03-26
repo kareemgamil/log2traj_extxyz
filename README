@@ -1,4 +1,4 @@
-
+# README
 # Log to Trajectory and Extended XYZ Converter
 
 This Python script automates the conversion of Gaussian log files (.log) to both ASE trajectory (.traj) and extended XYZ (.extxyz) formats. The output is organized into two subdirectories within a main `output` directory.
